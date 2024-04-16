@@ -13,5 +13,8 @@ An autopilot helicopter that can track suspects on foot or in vehicle and provid
       - the helicopter is tracking a target covertly (higher altitude no spotlight)
     - pursue
       - the helicopter is tracking a target aggresively (lower altitude with spotlight)
+     
+- There can be a maximum of three helicopters in use at one time
+- The default spawn locations are: LSIA LSPD helipad, LSPD Sinner Street HQ, Paleto Bay Sheriff HQ
 
 ## CUSTOMIZATION
